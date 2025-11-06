@@ -1,0 +1,37 @@
+[
+  {
+    "iteration": 1,
+    "inference_time": 0.1859335899353027,
+    "avg_cpu_percent": 36.900000000000006,
+    "gpu_name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "gpu_memory_used_mb": 53.3935546875
+  },
+  {
+    "iteration": 2,
+    "inference_time": 0.16649794578552246,
+    "avg_cpu_percent": 29.25,
+    "gpu_name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "gpu_memory_used_mb": 53.3935546875
+  },
+  {
+    "iteration": 3,
+    "inference_time": 0.14548873901367188,
+    "avg_cpu_percent": 25.799999999999997,
+    "gpu_name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "gpu_memory_used_mb": 53.3935546875
+  },
+  {
+    "iteration": 4,
+    "inference_time": 0.13747906684875488,
+    "avg_cpu_percent": 21.85,
+    "gpu_name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "gpu_memory_used_mb": 53.3935546875
+  },
+  {
+    "iteration": 5,
+    "inference_time": 0.13982534408569336,
+    "avg_cpu_percent": 23.0,
+    "gpu_name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "gpu_memory_used_mb": 53.3935546875
+  }
+]
